@@ -1,4 +1,4 @@
-package operators;
+package class3operators;
 
 public class OperatorIncrementDecrement {
 	public static void main(String[] args) {

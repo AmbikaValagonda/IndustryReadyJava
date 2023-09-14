@@ -1,4 +1,4 @@
-package operators;
+package class3operators;
 
 public class RelationalLogicalOperators {
 
@@ -47,7 +47,11 @@ public class RelationalLogicalOperators {
 		System.out.println("res2:: "  + res2);
 		
 		
+		boolean res3 = (a>b) && (a>b) && (a==c);
+		boolean res4 = (a>b) || (a>b) || (a==c);
 		
+		System.out.println("res3 "+res3);
+		System.out.println("res4 "+res4);
 	}
 
 }
