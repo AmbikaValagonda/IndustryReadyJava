@@ -1,4 +1,4 @@
-package class5loopspatterns;
+package c5_loops_patterns;
 
 public class LaunchRestAlphanbets {
 	public static void main(String[] args) {

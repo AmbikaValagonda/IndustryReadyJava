@@ -1,4 +1,4 @@
-package class3operators;
+package c3_operators;
 
 public class TypeCasting {
 	public static void main(String[] args) {

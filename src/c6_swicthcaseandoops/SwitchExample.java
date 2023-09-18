@@ -1,4 +1,4 @@
-package class6swicthcaseandoops;
+package c6_swicthcaseandoops;
 
 import java.util.Scanner;
 

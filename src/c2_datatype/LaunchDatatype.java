@@ -1,4 +1,4 @@
-package class2datatype;
+package c2_datatype;
 
 
 public class LaunchDatatype 

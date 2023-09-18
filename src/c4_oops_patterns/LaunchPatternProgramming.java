@@ -1,4 +1,4 @@
-package class4loopspatterns;
+package c4_oops_patterns;
 
 public class LaunchPatternProgramming {
 public static void main(String[] args) {
