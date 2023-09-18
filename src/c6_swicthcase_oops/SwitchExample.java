@@ -1,4 +1,4 @@
-package c6_swicthcaseandoops;
+package c6_swicthcase_oops;
 
 import java.util.Scanner;
 
